@@ -21,5 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarsashank&show_icons=true&locale=en&layout=compact" alt="kumarsashank" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Ghongade&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar-Ghongade&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarSashank&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarSashank&show_icons=true&theme=radical)
