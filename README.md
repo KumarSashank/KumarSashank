@@ -21,6 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarsashank&show_icons=true&locale=en&layout=compact" alt="kumarsashank" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsashank&show_icons=true&locale=en" alt="kumarsashank" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsashank&" alt="kumarsashank" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Ghongade&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar-Ghongade&show_icons=true&theme=radical)
