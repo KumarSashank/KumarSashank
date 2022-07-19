@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Kumar Sashank </h1>
 <h3 align="center">Curious to learn new things</h3>
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="center"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" height="auto" width="70%"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsashank&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsashank" /> </p>
 
