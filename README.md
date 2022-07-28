@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsashank&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsashank" /> </p>
 <ul>
   <li>👨‍💻 All of my projects are available here.</li>
-<li><p><a href="https://www.figma.com/file/laeXzUCZ3hb5fbtnO54AIQ/Skills?node-id=0%3A1" target="__blank" display="inlineblock" ><img src="https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67" height="30" width="30" ></a>Some of my best designs are </p></li>
+<li><p>Some of my best designs are <a href="https://www.figma.com/file/laeXzUCZ3hb5fbtnO54AIQ/Skills?node-id=0%3A1" target="__blank" display="inlineblock" ><img src="https://camo.githubusercontent.com/a86a8278da4c5b5a43330e1ea28e6ba050007a837128b5dff5b35d5ff0f1248a/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67" height="30" width="30" ></a></p></li>
 
   <li>📫 How to reach me **kumarsashank2003@gmail.com**</li>
   <li>⚡ Fun fact **I am funny 😂**</li>
